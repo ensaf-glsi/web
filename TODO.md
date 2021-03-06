@@ -13,22 +13,23 @@ proto, Object.create, constructor
 [x] window
 alert, prompt, confirm, setTimeout, setInterval, clearTimout, clearInterval
 
-[ ] document
+[x] document (dom)
 getElementById, getElementsByClassName, getElementsByTagName
 querySelector, querySelectorAll
 className, classList, style
 innerHTML, innerText | textContent
 
-[ ] Event
+[x] Event
 addEventListener, preventDefault, stopPropagation, removeEventListener
 
 [ ] Ajax
 GET, POST, FormData
+[ ] Callback, Promises, Async/Await, Fetch
+
 [ ] lodash
 trim, capitalize, pad, padStart, without, orderBy, filter, map, find, sample, sampleSize, groupBy, size, clone, assign, set, unset, get, debounce, throttle
 
 [ ] jQuery
-
 [ ] ES6 ou ES2015
 
 - [ ] Arrows and Lexical This
@@ -40,7 +41,6 @@ trim, capitalize, pad, padStart, without, orderBy, filter, map, find, sample, sa
 - [x] Let + Const
 - [ ] Modules
 - [ ] Math + Number + String + Object APIs
-- [ ] Callback, Promises, Async/Await, Fetch
 
 ## TPs
 
