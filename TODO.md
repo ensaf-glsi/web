@@ -10,7 +10,7 @@ fonction anonymes ; fonctions predefinies
 [x] Prototype
 proto, Object.create, constructor
 [x] exceptions
-[ ] window
+[x] window
 alert, prompt, confirm, setTimeout, setInterval, clearTimout, clearInterval
 
 [ ] document
@@ -45,5 +45,6 @@ trim, capitalize, pad, padStart, without, orderBy, filter, map, find, sample, sa
 ## TPs
 
 [x] Jeu de devinette
-[ ] Systeme des onglets
+[x] Systeme des onglets
+[ ] Travail a faire (accordion)
 [ ] Jeu de memoire
