@@ -1,12 +1,3 @@
-// var oReq = new XMLHttpRequest();
-
-// oReq.open(
-//   "GET",
-//   url + (/\?/.test(url) ? "&" : "?") + new Date().getTime(),
-//   true
-// );
-// oReq.send(null);
-
 // "/page.php"
 let ajax = function (url, options = { method: "GET", data: null }) {
   // if (options == undefined) {
@@ -18,7 +9,7 @@ let ajax = function (url, options = { method: "GET", data: null }) {
   // listener sur ma requete ajax
   http.onreadystatechange = function () {
     console.log("onreadychange : ", this.readyState, this.status);
-    //Appelle une fonction au changement d'état.
+    // Appelle une fonction au changement d'état.
     if (this.readyState === XMLHttpRequest.DONE && this.status === 200) {
       // Requête finie, traitement ici.
       console.log("traitement ...", http);
