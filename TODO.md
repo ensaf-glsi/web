@@ -22,14 +22,13 @@ innerHTML, innerText | textContent
 [x] Event
 addEventListener, preventDefault, stopPropagation, removeEventListener
 
-[ ] Ajax
+[x] Ajax
 GET, POST, FormData
-[ ] Callback, Promises, Async/Await, Fetch
+[x] Callback, Promises, Async/Await, Fetch
 
-[ ] lodash
+[x] lodash
 trim, capitalize, pad, padStart, without, orderBy, filter, map, find, sample, sampleSize, groupBy, size, clone, assign, set, unset, get, debounce, throttle
 
-[ ] jQuery
 [ ] ES6 ou ES2015
 
 - [ ] Arrows and Lexical This
@@ -48,3 +47,5 @@ trim, capitalize, pad, padStart, without, orderBy, filter, map, find, sample, sa
 [x] Systeme des onglets
 [ ] Travail a faire (accordion)
 [ ] Jeu de memoire
+
+[ ] jQuery
