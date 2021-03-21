@@ -29,23 +29,25 @@ GET, POST, FormData
 [x] lodash
 trim, capitalize, pad, padStart, without, orderBy, filter, map, find, sample, sampleSize, groupBy, size, clone, assign, set, unset, get, debounce, throttle
 
-[ ] ES6 ou ES2015
+[x] ES6 ou ES2015
 
-- [ ] Arrows and Lexical This
+- [x] Arrows and Lexical This
 - [x] Classes
-- [ ] Enhanced Object Literals
-- [ ] Template Strings
-- [ ] Destructuring
-- [ ] Default + Rest + Spread
+- [x] Enhanced Object Literals
+- [x] Template Strings
+- [x] Destructuring
+- [x] Default + Rest + Spread
 - [x] Let + Const
-- [ ] Modules
-- [ ] Math + Number + String + Object APIs
+- [x] Modules
+- [x] Math + Number + String + Object APIs
 
 ## TPs
 
 [x] Jeu de devinette
 [x] Systeme des onglets
-[ ] Travail a faire (accordion)
+[x] Travail a faire (accordion)
 [ ] Jeu de memoire
 
-[ ] jQuery
+# TypeScript
+
+[x] Introduction [https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html]
